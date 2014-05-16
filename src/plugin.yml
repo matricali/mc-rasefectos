@@ -1,0 +1,5 @@
+name: RASEfectos
+version: 1.0
+author: jorge-matricali
+website: jorge.matricali@gmail.com
+main: ras.minecraft.plugin.efectos.Efectos
